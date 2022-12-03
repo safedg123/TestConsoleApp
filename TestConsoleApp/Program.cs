@@ -11,6 +11,8 @@ namespace TestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("ППП");
+            
+                
         }
     }
 }
